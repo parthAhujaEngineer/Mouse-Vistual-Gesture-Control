@@ -1,0 +1,4 @@
+Install Packages -
+	1. pip install pynput
+	2. pip install pyobjc
+	3. pip install wxpython
